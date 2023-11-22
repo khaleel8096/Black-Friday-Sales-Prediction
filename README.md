@@ -38,11 +38,6 @@ The following tasks are to be performed as part of the project:
 2. Implement Linear Regression, Decision Tree Regressor, Random Forest Regressor, and XGBoost Regressor models.
 3. Evaluate model performance using metrics like MAE, MSE, RMSE, and R-squared.
 
-## Dataset Information
-- **Source:** [Add source link]
-- **Dataset History:** [Provide information about the dataset's origin and any transformations applied]
-- **Expected Update Frequency:** Monthly
-
 ## Usage
 1. Clone the repository:
 
