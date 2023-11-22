@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Black-Friday-Sales-Prediction
 ![alt text](https://searchengineland.com/figz/wp-content/seloads/2014/12/black-friday1-ss-1920.jpg "Black Friday Sales Prediction")
 
@@ -44,3 +43,4 @@ The following tasks are to be performed as part of the project:
    ```bash
    git clone https://github.com/khaleel8096/Black-Friday-Sales-Prediction.git
    cd Black-Friday-Sales-Prediction
+jupyter notebook Black-Friday-Sales-Prediction.ipynb
