@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Black-Friday-Sales-Prediction
 ![alt text](https://searchengineland.com/figz/wp-content/seloads/2014/12/black-friday1-ss-1920.jpg "Black Friday Sales Prediction")
 
@@ -39,3 +40,6 @@ Root Mean Square Error (RMSE) is a standard way to measure the error of a model 
 ### Conclusion
 Implanted multiple supervised models such as Linear Regressor,Decision Tree Regressor, Random Forest Regressor and XGBOOST Regressor. Out of these supervised models, based on the RMSE scores XGBRegressor/XGBOOST Regressor was the best performer with a score of 2879.
 
+=======
+# Black-Friday-Sales-Prediction
+>>>>>>> 3c0d6866e4b1a76050c1f7849cee669108c3ed55
